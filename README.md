@@ -14,3 +14,8 @@ Live Site:  https://leonomo.github.io/My-Website/
 - Custom Macropad – A 3 key mechanical pad with a rotary encoder, OLED display and a QMK firmware.
 - DIY Drone Remote Controller – An ExpressLRS based transmitter built with an ESP32, toggle switches, and custom 3D printed enclosure.
 
+## Credits
+- Omocat (Mewo in the top corner)
+
+## Extras
+I dont really know what to put in the readme of a website-
